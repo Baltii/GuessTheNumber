@@ -1,9 +1,10 @@
 # GuessNumber - A Fun Number Guessing Game
 Author: Ahmed Balti
 
-![image](https://github.com/Baltii/GuessTheNumber/assets/85387641/54d64885-1c38-494c-bb23-b3bc1dcb5085) 
-![image](https://github.com/Baltii/GuessTheNumber/assets/85387641/a09cde6c-addd-4076-954b-cecf7dccc613)![image](https://github.com/Baltii/GuessTheNumber/assets/85387641/bdfcfa6b-6705-43b7-8ce0-29d535986779)
-![image](https://github.com/Baltii/GuessTheNumber/assets/85387641/ebc2577d-4491-4c18-9dc3-256c49e47d7c)
+<img src="https://github.com/Baltii/GuessTheNumber/assets/85387641/54d64885-1c38-494c-bb23-b3bc1dcb5085" width="200">
+<img src="https://github.com/Baltii/GuessTheNumber/assets/85387641/a09cde6c-addd-4076-954b-cecf7dccc613" width="200">
+<img src="https://github.com/Baltii/GuessTheNumber/assets/85387641/bdfcfa6b-6705-43b7-8ce0-29d535986779" width="200">
+<img src="https://github.com/Baltii/GuessTheNumber/assets/85387641/ebc2577d-4491-4c18-9dc3-256c49e47d7c" width="200">
 
 
 
