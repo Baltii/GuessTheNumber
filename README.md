@@ -15,11 +15,11 @@ A time limit adds excitement and pressure to your guessing game. Can you guess t
 ## Historic of Plays:
 Keep track of your previous game results, review your progress, and compete against your best scores.
 
-Indications: 
-## The app provides helpful indications to guide your guessing. Use your logical thinking and intuition to uncover the hidden number.
+## Indications: 
+ The app provides helpful indications to guide your guessing. Use your logical thinking and intuition to uncover the hidden number.
 
-User-Friendly Interface: 
-## The app is designed with an intuitive and user-friendly interface built using Jetpack Compose, making it easy to navigate and play.
+## User-Friendly Interface: 
+ The app is designed with an intuitive and user-friendly interface built using Jetpack Compose, making it easy to navigate and play.
 
 ## How to Play
 1. Choose your preferred game mode: Basic or Advanced.
